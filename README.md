@@ -2,9 +2,15 @@
 分用户和管理员两个角色
 功能：管理员添加，修改，删除，查询图书，查看预约并同意借阅申请。
 用户注册登陆，图书借阅，查询图书，查看预约记录并还书。
+借阅界面
 ![image](https://github.com/user-attachments/assets/da97bc10-6035-4a51-bf70-2123f73bff42)
+图书管理界面
 ![image](https://github.com/user-attachments/assets/ce6dc2c5-27eb-4c9d-ac05-3f4dd5343d3f)
+预约管理界面
 ![image](https://github.com/user-attachments/assets/36c84fd8-3e37-4d7a-86a0-4d9a9db3f838)
+记录查询管理界面
 ![image](https://github.com/user-attachments/assets/cbac2db8-73be-4a9e-8b6b-4d89f60fca44)
+管理员查看的界面
 ![image](https://github.com/user-attachments/assets/c5d56a7e-3412-40fa-a18f-b78d9538a110)
+用户登录的界面
 ![image](https://github.com/user-attachments/assets/58e5f432-32e4-49d8-be13-2de867decfe9)
